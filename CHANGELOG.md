@@ -1,3 +1,8 @@
+## 1.8.2
+
+- Change iOS SQLite DB path to `NSApplicationSupportDirectory`
+- Downgrade to Flutter 2
+
 ## 1.8.1
 
 - Add optional `int step` argument to `FlutterDownloader.registerCallback()`
